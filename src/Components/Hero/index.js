@@ -1,5 +1,5 @@
 import styles from './style.module.css'
-import pribadi from '../../pribadi.png'
+//import pribadi from '../../pribadi.png'
 import risqi from '../../risqi.png'
 import SecondaryButton from '../secondaryButton'
 const Hero = () => {
