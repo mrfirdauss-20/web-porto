@@ -18,7 +18,7 @@ const Hero = () => {
                 </div>
             </div>
             <div className={styles.center}>
-                <img src={risqi} alt="logo" />
+                <img src={risqi} alt="orang ganteng" />
             </div>
             <div className={styles.right}>
                 <h3>INTRODUCTION</h3>
