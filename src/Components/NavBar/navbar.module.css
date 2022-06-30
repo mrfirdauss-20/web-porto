@@ -1,32 +1,36 @@
 .navbar{
-    height: 72pxf;
-    display: flex;
-    font-size: 1rem;
+    background-color: #35323B;
+    z-index: 999;
+    color: #35323B;
     position: sticky;
-    top: 0;
-    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.25));
+    height: 72px;
+    width: 100%;
+    font-size: 1rem;
+    top: 0px;
+    filter: drop-shadow(0px -10px -10px rgba(0, 0, 0, 0.25));
     font-family: 'Open Sans';
     font-style: normal;
 }
 
 .NavbarContainer{
-    display: flex;
     height: 72px;
-    width: 100%;
+    position: sticky;
+    top: 0px;
+    object-position: center;
     padding: 0 24px;
     max-width: 1440px;
-    justify-content: space-between;
+    justify-content: center;
 }
 
-
-
 .logo{
+    float: left;
     cursor: pointer;
     font-size: 2rem;
     font-weight: bold;
     display: flex;
+    height: 64px;
     align-items: center;
-    margin: 0 60px;
+    margin: 0 auto 0 60px;
 }
 
 span{
@@ -35,20 +39,21 @@ span{
 
 .navbarItems{
     display: flex;
-    margin: 0px 60px;
     align-items: center;
+    float: right;
+    margin-left: auto;
+    order: 2;
     text-align: center;
-    justify-content: space-between;
 }
 
 .navbarItem{
-    display: flex;
     align-items: center;
     text-align: center;
-    justify-content: center;
     margin: 0 20px;
     cursor: pointer;
     font-weight: bold;
+    height: 64px;
+    display: flex;
 }
 
 
