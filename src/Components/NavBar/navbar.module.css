@@ -56,6 +56,10 @@ span{
     display: flex;
 }
 
+.navbarItem:hover{
+    color: #DEA724;
+}
+
 
 @media screen and (max-width: 724px) {
     .navbar{
@@ -65,7 +69,11 @@ span{
         padding: 0;
     }
     .logo{
-        display: none;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+        justify-content: center;
     }
     .navbarItems{
         display: none;

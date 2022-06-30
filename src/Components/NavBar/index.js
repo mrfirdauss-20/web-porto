@@ -16,7 +16,7 @@ const NavBar = ()=>{
                     Experiences
                 </div>
                 <div className={styles.navbarItem}>
-                  <SecondaryButton text="Hire Me!"/>
+                  <SecondaryButton style={{color: "white"}} text="Hire Me!"/>
                 </div>
             </div>
         </div>
