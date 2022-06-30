@@ -1,0 +1,68 @@
+.title{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 650;
+    font-size: 35px;
+    
+    margin: 5px auto 0px auto;
+    text-align: center;
+}
+
+.subtitle{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 18px;
+    color: #DEA724; 
+    margin: 40px 0px 0px 0px;
+    text-align: center;
+}
+
+.p{
+    text-align: center;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+
+.comp{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 21px;
+    line-height: 24px;
+    max-width: 75%;
+    margin: 5px 0 0px auto;
+    color: aliceblue;
+    
+}
+
+.time{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    margin: 5px 0px 0px 0px;
+}
+.text{
+    max-width: 80%;
+}
+
+.pos{
+    color: #eab22f;
+}
+
+@media screen and (max-width: 768px) {
+    .tali{
+        display: none;
+    }
+    .comp{
+        font-size: 18px;
+        line-height: 24px;
+        max-width: 75%;
+        margin: 5px 0 0px auto;
+        color: aliceblue;
+    }
+    .text,.comp{
+        max-width: 90%;
+    }
+}
