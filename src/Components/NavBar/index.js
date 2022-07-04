@@ -16,7 +16,7 @@ const NavBar = ()=>{
                     Experiences
                 </div>
                 <div className={styles.navbarItem}>
-                  <NavButton color="#35323B"  style={{color: "white"}} text="Hire Me!"/>
+                  <NavButton color="#35323B"  style={{color: "white"}} text="Hire Me!" link="https://wa.me/6282245200501" />
                 </div>
             </div>
         </div>
