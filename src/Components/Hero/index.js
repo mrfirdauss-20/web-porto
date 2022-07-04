@@ -6,7 +6,7 @@ const Hero = () => {
     return(
         <div className={styles.heroBg}>
             <div className={styles.left}>
-                <h1>Muhammad Risqi <br /> Firdaus<span>.</span></h1>
+                <h1 className={styles.title}>Muhammad Risqi <br /> Firdaus<span>.</span></h1>
                 <hr />
                 <div className={styles.contact}>
                     <p>
@@ -14,7 +14,7 @@ const Hero = () => {
                     </p>
                 </div>
                 <div className={styles.btnCont}>
-                    <SecondaryButton text="Download CV" link="https://google.com" />
+                    <SecondaryButton color="#2F2C35" text="Download CV" link="https://google.com" />
                 </div>
             </div>
             <div className={styles.center}>

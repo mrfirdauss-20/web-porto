@@ -14,7 +14,7 @@
     grid-column: 1/auto;
 }
 
-h1{
+.title{
     text-align: left;
     font-style: normal;
     font-weight: 800;
@@ -24,7 +24,7 @@ h1{
     margin: 40px 0px 20px auto;
 }
 
-h1 span{
+.title span{
     color: #DEA724;;
 }
 
@@ -61,7 +61,7 @@ h2{
 h3{
     font-style: normal;
     font-weight: 700;
-    font-size: 16px;
+    font-size: 1px;
     line-height: 22px;
 
     color: #DEA724; 
@@ -107,10 +107,12 @@ a:hover{
         line-height: 30px;
     }
 
-    p{
-        font-size: 12px;
-        word-wrap: break-word;
+    .right{
         width: 90%;
     }
 
+    p{
+        font-size: 12px;
+        word-wrap: break-word;
+    }
 }

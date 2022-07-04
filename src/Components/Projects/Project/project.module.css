@@ -1,0 +1,27 @@
+.card{
+    margin: 10px;
+}
+
+.img{
+    border-radius: 8px;
+    max-width: 100%;
+}
+
+.title{
+    font-size: 24px;
+    font-weight: 700;
+    margin: 5px 0 0 0;
+}
+
+.description{
+    color: #a6a1b1;
+    font-size: 14px;
+    margin: 0 0 15px 0;
+}
+
+
+@media screen and (max-width: 768px) {
+    .img{
+        display: block;
+    }
+}

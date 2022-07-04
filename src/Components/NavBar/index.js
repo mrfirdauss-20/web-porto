@@ -1,5 +1,5 @@
 import styles from './navbar.module.css'
-import SecondaryButton from '../secondaryButton'
+import NavButton from '../NavButton';
 const NavBar = ()=>{
     return(
     <div className={styles.navbar}>
@@ -16,7 +16,7 @@ const NavBar = ()=>{
                     Experiences
                 </div>
                 <div className={styles.navbarItem}>
-                  <SecondaryButton style={{color: "white"}} text="Hire Me!"/>
+                  <NavButton color="#35323B"  style={{color: "white"}} text="Hire Me!"/>
                 </div>
             </div>
         </div>
