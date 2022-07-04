@@ -18,6 +18,9 @@ const Contact = () => {
               .then(() => {
                 alert("Success!");
               })
+              .catch((e)=>{
+                alert(e)
+              })
             });
           });
     })
