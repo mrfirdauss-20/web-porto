@@ -26,7 +26,7 @@ const Hero = () => {
                 <p>
                 An undergraduate informatic student who experienced in web and chatbot development. Eager to learn about developing technological things. Able to quickly learn and acclimate to new technologies. Besides that, he has a lot of experience being a leader in teams and national organizations.
                 </p>
-                <p><strong>Awards: </strong>Best Mentees (Top 1%) Telkom Digistar Class, 6th Paragon Hackathon Competition</p>
+                <p><strong>Awards: </strong>Best Mentees (Top 1%) Telkom Digistar Class 2022, Top 6th Paragon Hackathon Competition 2022</p>
             </div>
         </div>
     );
