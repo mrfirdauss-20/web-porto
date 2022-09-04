@@ -1,19 +1,19 @@
 import konsulin from "../../assets/konsulin.png"
 import dna from '../../assets/dna.png'
-import hikery from '../../assets/hikery.png'
 import imagecompress from "../../assets/imagecompress.png"
 import workoutin from '../../assets/workoutin.png'
-import wecome from '../../assets/wecome.png'
+import workoutin_web from '../../assets/worktoutin_web.png'
 export const data =[
+    {
+        title: "Workoutin Web App",
+        description: "eCommerce web app that gives user solutions for looking for a personal trainer. Built a web app using React and Firebase. Responsible for building a personal trainer details page and chat services. Also responsible for deploying web on AWS Amplify. The chat service was built using a realtime database, firebase. The clone on vercel.",
+        image: workoutin_web,
+        url: "https://workoutin.vercel.app/"
+    },
     {
         title: "DNA and Disease Prediction Web",
         description: "DNA and Disease WebApp is a web that is able to compare the DNA of patients and disease DNA using Boyer Moore and KMP Algorithm, filter the input, determine the distance of the DNA and save the data of DNA and search history in MySQL. This web application was built using MySQL, expressjs and React. Responsible for developing the server application and building the Levenshtein distance algorithm.",
         image: dna,
-    },
-    {
-        title: "Workoutin",
-        description: "Workouting is desktop application that built using Python, PyQt. Responsible for developing adding database, enmvironment and add workout types module.",
-        image: workoutin,
     },
     {
         title: "Image Compressor",
@@ -21,15 +21,9 @@ export const data =[
         image: imagecompress,
     },
     {
-        title: "Hikery",
-        description: "Website for landing page and rentaling outdoor gear. Built using PHP, MySQL and Golang. I was responsible for coordinating the team that consist 2 people, concepting and maintaining the website.",
-        url: "http://www.hikery.co/",
-        image: hikery
-    },
-    {
-        title: "Wecome",
-        description: "Welcome is a website that provides competition information for ITB students. Built the first version website using PHP MySQL. Was responsible for building the backend system and deploying the first version.",
-        image: wecome
+        title: "Workoutin Desktop App",
+        description: "Workouting is desktop application that built using Python, PyQt. Responsible for developing adding database, enmvironment and add workout types module.",
+        image: workoutin,
     },
     {
         title: "Konsulin",

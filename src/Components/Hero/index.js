@@ -10,7 +10,7 @@ const Hero = () => {
                 <hr />
                 <div className={styles.contact}>
                     <p>
-                    <a href='https://github.com/mrfirdauss-20'>Github</a> | <a href='https://gitlab.com/mrfirdauss-20'>Gitlab</a> | <a href='https://www.kaggle.com/muhammadrisqifirdaus'>Kaggle</a> | <a href='https://www.linkedin.com/in/mrfirdauss/'>Linkedin</a>
+                    <a href='https://github.com/mrfirdauss-20'>Github</a> | <a href='https://gitlab.com/mrfirdauss-20'>Gitlab</a> | <a href='https://www.kaggle.com/mrfirdauss20'>Kaggle</a> <br></br> <a href='https://www.linkedin.com/in/mrfirdauss/'>Linkedin</a> | <a href='https://coretgabut.blogspot.com/'>Blog</a>
                     </p>
                 </div>
                 <div className={styles.btnCont}>
@@ -26,6 +26,7 @@ const Hero = () => {
                 <p>
                 An undergraduate informatic student who experienced in web and chatbot development. Eager to learn about developing technological things. Able to quickly learn and acclimate to new technologies. Besides that, he has a lot of experience being a leader in teams and national organizations.
                 </p>
+                <p><strong>Awards: </strong>Best Mentees (Top 1%) Telkom Digistar Class, 6th Paragon Hackathon Competition</p>
             </div>
         </div>
     );
