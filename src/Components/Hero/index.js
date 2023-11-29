@@ -22,11 +22,11 @@ const Hero = () => {
             </div>
             <div className={styles.right}>
                 <h3>INTRODUCTION</h3>
-                <h2>Software Engineer, <br /> Web Developer, <br />Data Enthusiast</h2>
+                <h2>Data Enthusiast, <br />Tech Consultant, <br />Software Engineer</h2>
                 <p>
-                An undergraduate informatic student who experienced in web and chatbot development. Eager to learn about developing technological things. Able to quickly learn and acclimate to new technologies. Besides that, he has a lot of experience being a leader in teams and national organizations.
+                An undergraduate student who has a devotion and experience in digitalization, especially in data analyst, machine learning and database. Keen to learn about building and developing technological things. Specialized in data using various stacks (SQL and Python). He is able to quickly learn and acclimate to new technologies. Besides that, he has a lot of experience being a leader in teams and organizations.
                 </p>
-                <p><strong>Awards: </strong>Gold Medalist Gemastik Data Mining Division 2022, Best Mentees (Top 1%) Telkom Digistar Class 2022, Top 10 Jabar Data Viz Fest 2022, Top 6 Paragon Hackathon Competition 2022</p>
+                <p><strong>Awards: </strong> <b>Honorable Mention</b> Datahon Ristek UI 2023, <b>Gold Medalist</b> Gemastik Data Mining 2022, <b>Top 10</b> Kemenkeu Data Quals-Data Mining 2023 </p>
             </div>
         </div>
     );

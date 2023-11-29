@@ -3,7 +3,23 @@ import dna from '../../assets/dna.png'
 import imagecompress from "../../assets/imagecompress.png"
 import workoutin from '../../assets/workoutin.png'
 import workoutin_web from '../../assets/worktoutin_web.png'
+import mercator from '../../assets/mercator.png'
+import apayak from '../../assets/apayak.png'
+
+
 export const data =[
+    {
+        title: "Mercator Web App",
+        description: "Mercator is a web app to calculate the needs of mangrove ecosystem cost based on spatial data and machine learning model. Responsible to develop spatial data pipeline and prediction  model.",
+        image: mercator,
+        url: "https://mercator-eight.vercel.app/"
+    },
+    {
+        title: "Multi-Satellite Data for Estimating the Gross Regional Domestic Product",
+        description: "Responsible for building data pipeline using Google Earth Engine and making an spatial exploratory data analysis. Predicting Gross Regional Domestic Product based on spatial data and transfer rate in Central Java Province.",
+        image: apayak,
+        url: "https://docs.google.com/presentation/d/1pzfouyMhu2eR53uRRXmdRbmSagMYj3HDTw-HIaVlJdc/edit?usp=sharing"
+    },
     {
         title: "Workoutin Web App",
         description: "eCommerce web app that gives user solutions for looking for a personal trainer. Built a web app using React and Firebase. Responsible for building a personal trainer details page and chat services. Also responsible for deploying web on AWS Amplify. The chat service was built using a realtime database, firebase. The clone on vercel.",

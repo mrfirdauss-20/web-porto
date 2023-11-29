@@ -1,9 +1,15 @@
 export const timelines = [
     {
+        title: "Course Assistant, System Information IF3141",
+        company: "Institut Teknologi Bandung",
+        time: "August 2023 - Present",
+        text: "Assisting 4 teams with morethan 20 students to analyze problem and implement system information solution from real world problem (real company)",
+    },
+    {
         title: "Backend Engineer Intern",
         company: "PT Paragon Technology and Innovation",
         time: "June 2022 - Present",
-        text: "Responsible on developing API and databases for warehouse management system using NPM and NodeJS. Responsible for building User Management System and Items Putaway.",
+        text: "Decrease manpower for warehouse management by 10 percent per month. Decrease cost for supplier and production operational cost up to Rp. 2.5 M per week. Responsible for overwriting and optimizing the queries and databases by critical times." 
     },
     {
         title: "Chief Technology Officer",
