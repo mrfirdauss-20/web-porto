@@ -14,7 +14,7 @@ const Hero = () => {
                     </p>
                 </div>
                 <div className={styles.btnCont}>
-                    <SecondaryButton color="#2F2C35" text="Download CV" link="https://docs.google.com/document/d/1SJnTc6l0LZ2WGr0kxkmMdcx6uaQ0Trje/export?format=pdf" />
+                    <SecondaryButton color="#2F2C35" text="Download CV" link="https://docs.google.com/document/d/1-WonOal91au5ZQPFh3FF9mrEGYzDzgcu/export?format=pdf" />
                 </div>
             </div>
             <div className={styles.center}>
