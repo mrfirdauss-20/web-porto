@@ -10,7 +10,7 @@ const Hero = () => {
                 <hr />
                 <div className={styles.contact}>
                     <p>
-                    <a href='https://github.com/mrfirdauss-20'>Github</a> | <a href='https://gitlab.com/mrfirdauss-20'>Gitlab</a> | <a href='https://www.kaggle.com/mrfirdauss20'>Kaggle</a> <br></br> <a href='https://www.linkedin.com/in/mrfirdauss/'>Linkedin</a> | <a href='https://mrfirdauss.medium.com/'>Blog</a>
+                    <a href='https://github.com/mrfirdauss-20'>Github</a> | <a href='https://gitlab.com/mrfirdauss'>Gitlab</a> | <a href='https://www.kaggle.com/mrfirdauss20'>Kaggle</a> <br></br> <a href='https://www.linkedin.com/in/mrfirdauss/'>Linkedin</a> | <a href='https://mrfirdauss.medium.com/'>Blog</a>
                     </p>
                 </div>
                 <div className={styles.btnCont}>
