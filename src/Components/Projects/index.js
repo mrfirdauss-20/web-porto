@@ -13,6 +13,7 @@ const Projects = () =>{
                 )
             })}
         </div>
+        <strong>and many more</strong>
     </div>)
 }
 
