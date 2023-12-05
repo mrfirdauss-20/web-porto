@@ -28,7 +28,7 @@ const Hero = () => {
                 Undergraduate student who has a devotion and experience in digitalization, especially in data and software. Specialized in data using various stacks (SQL and Python). Able to quickly learn and acclimate to new technologies. Besides that, he has a lot of experience being a leader in teams and organizations.
                 </p>
                 <br />
-                <p><strong>Awards: </strong> <b>Honorable Mention</b> Datahon Ristek UI 2023, <b>Gold Medalist</b> Gemastik Data Mining 2022, <b>Top 10</b> Kemenkeu Data Quals-Data Mining 2023, and many more. </p>
+                <p><strong>Awards: </strong> <b>Silver Medal</b> International Carbon Counting Competition 2023, <b>Honorable Mention</b> Datahon Ristek UI 2023, <b>Gold Medalist</b> Gemastik Data Mining 2022, <b>Top 10</b> Kemenkeu Data Quals-Data Mining 2023, and many more. </p>
             </div>
         </div>
     );
