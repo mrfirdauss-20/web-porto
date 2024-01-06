@@ -1,14 +1,20 @@
 export const timelines = [
     {
+        title: "Data Analyst",
+        company: "Kitalulus",
+        time: "December 2023 - Present",
+        text: "Responsible for migrate and develop dasshboaard query, and successfully decrease query cost up to 90 percent.",
+    },
+    {
         title: "Course Assistant, System Information IF3141",
         company: "Institut Teknologi Bandung",
-        time: "August 2023 - Present",
+        time: "August 2023 - December 2023",
         text: "Assisting 4 teams with morethan 20 students to analyze problem and implement system information solution from real world problem (real company)",
     },
     {
         title: "Backend Engineer Intern",
         company: "PT Paragon Technology and Innovation",
-        time: "June 2022 - Present",
+        time: "June 2022 - December 2023",
         text: "Decrease manpower for warehouse management by 10 percent per month. Decrease cost for supplier and production operational cost up to Rp. 2.5 M per week. Responsible for overwriting and optimizing the queries and databases by critical times." 
     },
     {
