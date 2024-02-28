@@ -3,7 +3,7 @@ export const timelines = [
         title: "Data Analyst",
         company: "Kitalulus",
         time: "December 2023 - Present",
-        text: "Responsible for migrate and develop dasshboaard query, and successfully decrease query cost.",
+        text: "Responsible for migrate and develop dasshboaard query, and successfully decrease cost by 55 percent. Scraped and ehance program data from 4 competitors. Analyzed and evaluated feature and activity declining.",
     },
     {
         title: "Course Assistant, System Information IF3141",
