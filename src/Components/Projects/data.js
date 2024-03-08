@@ -1,12 +1,18 @@
 import keras from "../../assets/keras.png"
 import dna from '../../assets/dna.png'
-import imagecompress from "../../assets/imagecompress.png"
+import collaborative from "../../assets/image.png"
 import ristek from '../../assets/ristek.png'
 import mercator from '../../assets/mercator.png'
 import apayak from '../../assets/apayak.png'
 
 
 export const data =[
+    {
+        title: "Collaborative Filtering for Twitch Recommender System",
+        description: "Developing model for Twitch Recomender System based on user activity log. Best model was developed using Collaborative Filtering",
+        image: collaborative,
+        url: "https://www.canva.com/design/DAF2ErIl9iQ/zs2PyzY9bLDV4rf616jcAw/view?utm_content=DAF2ErIl9iQ&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+    },
     {
         title: "Mercator Web App",
         description: "Mercator is a web app to calculate the needs of mangrove ecosystem cost based on spatial data and machine learning model. Responsible to develop spatial data pipeline and prediction  model.",
@@ -35,10 +41,5 @@ export const data =[
         title: "DNA and Disease Prediction Web",
         description: "DNA and Disease WebApp is a web that is able to compare the DNA of patients and disease DNA using Boyer Moore and KMP Algorithm, filter the input, determine the distance of the DNA and save the data of DNA and search history in MySQL. This web application was built using MySQL, expressjs and React. Responsible for developing the server application and building the Levenshtein distance algorithm.",
         image: dna,
-    },
-    {
-        title: "Image Compressor",
-        description: "Building website for compressing image using python flask and SVD algorithm. Responsible for developing the server and setup microservice using flask.",
-        image: imagecompress,
     }
 ]
