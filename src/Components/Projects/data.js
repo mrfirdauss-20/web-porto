@@ -4,7 +4,8 @@ import collaborative from "../../assets/image.png"
 import ristek from '../../assets/ristek.png'
 import mercator from '../../assets/mercator.png'
 import apayak from '../../assets/apayak.png'
-
+import imagecompress from '../../assets/imagecompress.png'
+import tableau from '../../assets/tableau.png'
 
 export const data =[
     {
@@ -36,6 +37,17 @@ export const data =[
         description: "Responsible for doing EDA and Feature Engineering, by explorating the traffic speed timeseries data in London.",
         image: ristek,
         url: "https://docs.google.com/document/d/1Gvc2TmnTeJ-zeDqFmlGcyWm3KJ3e_xYuCyHe5Ike8xc/export?format=pdf"
+    },
+    {
+        title: "Dashboard Tableau Pengaruh Angka Harapan Hidup di Jawa Barat",
+        description: "Creating Tableau dashboard for Province executive. Responsible for conducting and developing dashbaord.",
+        image: tableau,
+        url: "https://public.tableau.com/app/profile/muhamad.fikri.nurohman4226/viz/JDVF2022-PengaruhAngkaHarapanHidupJawaBarat/Final?publish=yes"
+    },
+    {
+        title: "Image Compressor",
+        description: "Building website for compressing image using python flask and SVD algorithm. Responsible for developing the server and setup microservice using flask.",
+        image: imagecompress,
     },
     {
         title: "DNA and Disease Prediction Web",
