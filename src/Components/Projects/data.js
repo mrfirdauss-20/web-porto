@@ -6,6 +6,7 @@ import mercator from '../../assets/mercator.png'
 import apayak from '../../assets/apayak.png'
 import imagecompress from '../../assets/imagecompress.png'
 import tableau from '../../assets/tableau.png'
+import online_retail from '../../assets/online_retail.png'
 
 export const data =[
     {
@@ -13,6 +14,12 @@ export const data =[
         description: "Developing model for Twitch Recomender System based on user activity log. Best model was developed using Collaborative Filtering",
         image: collaborative,
         url: "https://www.canva.com/design/DAF2ErIl9iQ/zs2PyzY9bLDV4rf616jcAw/view?utm_content=DAF2ErIl9iQ&utm_campaign=designshare&utm_medium=link&utm_source=editor"
+    },
+    {
+        title: "Online Retail Analysis",
+        image: online_retail,
+        description: "Analysis of an online retail dataset. The notebook covers various steps including data preparation, exploratory data analysis (EDA), and deriving insights from customer purchasing behavior. It includes preprocessing and generating descriptive statistics. The analysis also explores sales trends, customer segmentation using RFM (Recency, Frequency, Monetary) analysis, and visualization techniques to present findings effectively.",
+        url: "https://www.kaggle.com/code/mrfirdauss20/online-retail-analysis#Preparation"
     },
     {
         title: "Mercator Web App",
