@@ -7,8 +7,15 @@ import apayak from '../../assets/apayak.png'
 import imagecompress from '../../assets/imagecompress.png'
 import tableau from '../../assets/tableau.png'
 import online_retail from '../../assets/online_retail.png'
+import RaG_Phi3 from '../../assets/RaG_Phi3.png'
 
 export const data =[
+    {
+        title: "Retrieval-Augmented Generation using Phi3 for Paper Question Answer",
+        description: "The Retrieval-Augmented Generation (RAG) system leverages the capabilities of Faiss for efficient similarity search and retrieval, along with Phi3 for natural language generation, to create an advanced question-answering (QA) system specifically designed for academic papers. This project aims to enhance the accessibility and usability of academic research by enabling users to obtain precise answers to their queries from a vast repository of scientific papers.",
+        image: RaG_Phi3,
+        url: "https://www.kaggle.com/code/mrfirdauss20/rag-phi3"
+    },
     {
         title: "Collaborative Filtering for Twitch Recommender System",
         description: "Developing model for Twitch Recomender System based on user activity log. Best model was developed using Collaborative Filtering",
