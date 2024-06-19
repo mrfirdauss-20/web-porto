@@ -8,6 +8,7 @@ import imagecompress from '../../assets/imagecompress.png'
 import tableau from '../../assets/tableau.png'
 import online_retail from '../../assets/online_retail.png'
 import RaG_Phi3 from '../../assets/RaG_Phi3.png'
+import BukaPluang from '../../assets/BukaPluang.png'
 
 export const data =[
     {
@@ -27,6 +28,12 @@ export const data =[
         image: online_retail,
         description: "Analysis of an online retail dataset. The notebook covers various steps including data preparation, exploratory data analysis (EDA), and deriving insights from customer purchasing behavior. It includes preprocessing and generating descriptive statistics. The analysis also explores sales trends, customer segmentation using RFM (Recency, Frequency, Monetary) analysis, and visualization techniques to present findings effectively.",
         url: "https://www.kaggle.com/code/mrfirdauss20/online-retail-analysis#Preparation"
+    },
+    {
+        title: "BukaPluangBersama for Pluang Market Penetration through Community Collaboration",
+        description: "Developed a comprehensive pitch deck for the final round of the 180DC APAC Case Competition, focusing on innovative solutions for Pluang problem in market penetration.",
+        image: BukaPluang,
+        url: "https://docs.google.com/presentation/d/17YleNZZ-g-JA3c-6nagHQo2RzZ59-xRH4QG2dytMG8c/edit?usp=sharing"
     },
     {
         title: "Mercator Web App",
