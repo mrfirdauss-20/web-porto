@@ -8,7 +8,7 @@ import imagecompress from '../../assets/imagecompress.png'
 import tableau from '../../assets/tableau.png'
 import online_retail from '../../assets/online_retail.png'
 import RaG_Phi3 from '../../assets/RaG_Phi3.png'
-import BukaPluang from '../../assets/BukaPluang.png'
+import BukaPluang from '../../assets/BukaPluang.jpg'
 
 export const data =[
     {
