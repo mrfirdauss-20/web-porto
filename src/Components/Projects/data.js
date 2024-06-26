@@ -9,6 +9,8 @@ import tableau from '../../assets/tableau.png'
 import online_retail from '../../assets/online_retail.png'
 import RaG_Phi3 from '../../assets/RaG_Phi3.png'
 import BukaPluang from '../../assets/BukaPluang.jpg'
+import supc from '../../assets/supc.png'
+
 
 export const data =[
     {
@@ -28,6 +30,12 @@ export const data =[
         image: online_retail,
         description: "Analysis of an online retail dataset. The notebook covers various steps including data preparation, exploratory data analysis (EDA), and deriving insights from customer purchasing behavior. It includes preprocessing and generating descriptive statistics. The analysis also explores sales trends, customer segmentation using RFM (Recency, Frequency, Monetary) analysis, and visualization techniques to present findings effectively.",
         url: "https://www.kaggle.com/code/mrfirdauss20/online-retail-analysis#Preparation"
+    },
+    {
+        title: "Enhanced PWM Measures to Build Inflation Resilience for Lowest Decile Service Workers",
+        image: supc,
+        description: " This project is focusing on improving the Progressive Wage Model (PWM) to protect service workers against inflation. Conducted in-depth socioeconomic analysis, formulated strategic enhancements, and presented the proposal in the semifinal round to a panel of industry experts. Gained skills in policy analysis, public speaking, and strategic planning, while receiving commendable feedback for analytical depth and practical applicability.",
+        url: "https://docs.google.com/presentation/d/1thCI02J7_CAsDxOmFQb_3R54liVpC0P4/edit?usp=sharing&ouid=115342788512911538620&rtpof=true&sd=true"
     },
     {
         title: "BukaPluangBersama for Pluang Market Penetration through Community Collaboration",
