@@ -1,5 +1,11 @@
 export const timelines = [
     {
+        title: "Data Analyst Engineer",
+        company: "Huawei Tech Investment Ltd.",
+        time: "Augsut 2024 - Present",
+        text: "Responsible for evaluting BTS performance, and making alert for such any abnormal activities.",
+    },
+    {
         title: "Data Analyst",
         company: "Kitalulus",
         time: "December 2023 - March 2024",
