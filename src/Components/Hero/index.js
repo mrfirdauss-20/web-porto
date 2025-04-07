@@ -25,7 +25,7 @@ const Hero = () => {
                 <h2>Data Enthusiast, <br />Tech Consultant, <br />Software Engineer</h2>
                 <p>
                 <br />
-                Undergraduate student who has a devotion and experience in digitalization, especially in data and software. Specialized in data using various stacks (SQL and Python). Able to quickly learn and acclimate to new technologies. Besides that, he has a lot of experience being a leader in teams and organizations.
+                A Data Analyst Engineer at Huawei with a strong background in data science, machine learning, and big data technologies. He holds a B.Sc in Informatics Engineering from Institut Teknologi Bandung and has published a paper at the IEEE ICoDSe 2024 conference. He has led impactful initiatives that saved millions in operational costs through advanced analytics and data pipeline optimization using Hadoop and Spark. His experience includes internships at Kitalulus and PT Paragon, along with multiple awards in national and international data competitions. Risqi is also active in technical projects and mentoring, with expertise in Python, SQL, and cloud platforms.
                 </p>
                 <br />
                 <p><strong>Awards: </strong> <b>Silver Medal</b> International Carbon Counting Competition 2023, <b>Honorable Mention</b> Datahon Ristek UI 2023, <b>Gold Medalist</b> Gemastik Data Mining 2022, <b>Top 10</b> Kemenkeu Data Quals-Data Mining 2023, and many more. </p>
