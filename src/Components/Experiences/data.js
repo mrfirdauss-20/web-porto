@@ -2,8 +2,8 @@ export const timelines = [
     {
         title: "Data Analyst Engineer",
         company: "Huawei Tech Investment Ltd.",
-        time: "Augsut 2024 - Present",
-        text: "Responsible for evaluting BTS performance, and making alert for such any abnormal activities.",
+        time: "August 2024 - Present",
+        text: "Successfully managed deployment of inhouse data warehouse and analytics automation POC using Hadoop and Spark, improve ROI up to millions dollars quarterly. Developed an anti-fraud retention ML model, saved up to hundred millions rupiah monthly and was recognized by CTO. Produce numerous data pipelines and experience reports using Hadoop and PowerBi with automatic issue resolution. Responsible for evaluting BTS performance, and making alert for such any abnormal activities.",
     },
     {
         title: "Data Analyst",
