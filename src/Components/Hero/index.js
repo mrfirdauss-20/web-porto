@@ -22,10 +22,10 @@ const Hero = () => {
             </div>
             <div className={styles.right}>
                 <h3>INTRODUCTION</h3>
-                <h2>Data Enthusiast, <br />Tech Consultant, <br />Software Engineer</h2>
+                <h2>Data Enthusiast</h2>
                 <p>
                 <br />
-                A Data Analyst Engineer at Huawei with a strong background in data science, machine learning, and big data technologies. He holds a B.Sc in Informatics Engineering from Institut Teknologi Bandung and has published a paper at the IEEE ICoDSe 2024 conference. He has led impactful initiatives that saved millions in operational costs through advanced analytics and data pipeline optimization using Hadoop and Spark. His experience includes internships at Kitalulus and PT Paragon, along with multiple awards in national and international data competitions. Risqi is also active in technical projects and mentoring, with expertise in Python, SQL, and cloud platforms.
+                A Data Analyst Engineer with a strong background in data science, analysis, and big data technologies. Has published a paper at the IEEE ICoDSe 2024 conference. He led impactful initiatives that saved millions in costs through advanced analytics and data pipeline optimization using Hadoop, Spark and Machine Learning through his experience at Huawei, Kitalulus and PT Paragon. Along with multiple awards in national and international data competitions. He is also active in technical projects and mentoring.
                 </p>
                 <br />
                 <p><strong>Awards: </strong> <b>Silver Medal</b> International Carbon Counting Competition 2023, <b>Honorable Mention</b> Datahon Ristek UI 2023, <b>Gold Medalist</b> Gemastik Data Mining 2022, <b>Top 10</b> Kemenkeu Data Quals-Data Mining 2023, and many more. </p>
