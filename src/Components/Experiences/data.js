@@ -8,14 +8,8 @@ export const timelines = [
     {
         title: "Data Analyst",
         company: "Kitalulus",
-        time: "December 2023 - March 2024",
+        time: "2023 - 2024",
         text: "Responsible for evaluted and migrated ETL and dashboard query, and successfully decrease cost by 55 percent. Scraped and ehance program data from 4 competitors. Analyzed and identified fraud client and user behaviour for better fraud prediction",
-    },
-    {
-        title: "Course Assistant, System Information IF3141",
-        company: "Institut Teknologi Bandung",
-        time: "August 2023 - December 2023",
-        text: "Assisting 4 teams with morethan 20 students to analyze problem and implement system information solution from real world problem (real company)",
     },
     {
         title: "Backend Engineer Intern",
@@ -23,10 +17,16 @@ export const timelines = [
         time: "June 2022 - December 2023",
         text: "Decrease manpower for warehouse management by 10 percent per month. Decrease cost for supplier and production operational cost up to Rp. 2.5 M per week. Responsible for overwriting and optimizing the queries and databases by critical times." 
     },
+        {
+        title: "Course Assistant, System Information IF3141",
+        company: "Institut Teknologi Bandung",
+        time: "2023 - 2023",
+        text: "Assisting 4 teams with morethan 20 students to analyze problem and implement system information solution from real world problem (real company)",
+    },
     {
         title: "Chief Technology Officer",
         company: "Hikery Co",
-        time: "June 2021 - Present",
+        time: "2021 - 2022",
         text: "Responsible for building, deploying the website using PHP and MySQL.",
     },
     {
